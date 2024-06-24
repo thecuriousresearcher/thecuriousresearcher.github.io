@@ -97,7 +97,7 @@ theme_mode: light
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://comicvine.gamespot.com/a/uploads/scale_small/11112/111121983/8096465-6661074076-latest.jpg"
+avatar: "https://avatars.githubusercontent.com/u/172196400"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
