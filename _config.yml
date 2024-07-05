@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mermaid musings # the main title
+title: Sowmya # the main title
 
-tagline: Sowmya K # it will display as the sub-title
+tagline: The prettiest gal alive # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-Mermaid musings by Sowmya K
+ I am the most smartest and beautiful girl ever alive.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
