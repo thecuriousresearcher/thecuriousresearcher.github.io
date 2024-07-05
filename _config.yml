@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mermaid musings # the main title
+title: Sowmya # the main title
 
-tagline: ~Sowmya K  # it will display as the sub-title
+tagline: The prettiest gal alive # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-Words from the Mermaid.
+ I am the most smartest and beautiful girl ever alive.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -97,7 +97,7 @@ theme_mode: light
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://comicvine.gamespot.com/a/uploads/scale_small/11112/111121983/8096465-6661074076-latest.jpg"
+avatar: "https://avatars.githubusercontent.com/u/172196400"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
