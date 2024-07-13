@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Jeevan set up this space for me, my bestest friend in this world.  
+> A good friend helped me set up this space- I'm using it to document my thoughts, my life and my world. 
+
 {: .prompt-tip }
