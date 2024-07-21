@@ -2,7 +2,6 @@
 title: Beautiful me.
 description: >-
   What's the dilemma? 
-author: Strawberry
 date: 2024-07-13 21:00:00 +0800
 categories: [Thoughts]
 tags: [Life]
