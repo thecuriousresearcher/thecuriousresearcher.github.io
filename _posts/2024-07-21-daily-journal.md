@@ -27,6 +27,9 @@ Amazing quotes from the book I'm reading currently:
 3. Quote 2: If you can survive the ordeal of being born, you can get through anything.
 4. Quote 3: There are so many things to do, but I won’t make the excuse that I have no time anymore. Instead, I will think about what I can do with the time I have. One day is going to become tomorrow.
 
+#### 28 July 7 PM
+I do not know what to say. I spent my day with my blanket trying to understand how things went out of control. I slept for a few hours, and then woke up anxious about not doing anything great in life. Nobody to love, nobody to call mine, no work that I love, no place I want to belong, nothing that inspires and excites me- do I need therapy? I've tried therapy before, and it never worked. I need like a slap on my face, a magic from above, a connection with God, a friend- and all of it I guess. I sometimes wonder if I'm born to only talk about my problems. I just need God. I really do. Where do I find God? I need to meet him. 
+
 [nodejs]: https://nodejs.org/
 [starter]: https://github.com/cotes2020/chirpy-starter
 [pages-workflow-src]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
