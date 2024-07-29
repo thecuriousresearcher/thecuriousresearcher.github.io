@@ -30,6 +30,9 @@ Amazing quotes from the book I'm reading currently:
 #### 28 July 07.00 PM
 I do not know what to say. I spent my day curved up in my blanket trying to understand how things went out of control. I slept for a few hours, and then woke up anxious about not doing great in life. Nobody to love, nobody to call mine, no work that I love, no place I want to belong, nothing that inspires and excites me- do I need therapy? I've tried therapy before, and it never worked. I need like a slap on my face, a magic from above, a connection with God, a friend- and all of it I guess. I sometimes wonder if I'm born to only talk about my problems. I just need God. I really do. Where do I find God? I need to meet him. 
 
+#### 29 July 10:00 PM
+I am sick today (a 101 fever). I called in leave at work, and spent the day sleeping. Why do I sleep all the time and still feel tired? What is it that is pushing me down? I have to pull my shit together. This fever is the last time I'm resting- once I am back, I am not going to let any shit take over. Everything will be in my control. I'm angry and the world can't afford to hold an angry me. Goodnight. 
+
 [nodejs]: https://nodejs.org/
 [starter]: https://github.com/cotes2020/chirpy-starter
 [pages-workflow-src]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
