@@ -33,6 +33,9 @@ I do not know what to say. I spent my day curved up in my blanket trying to unde
 #### 29 July 10:00 PM
 I am sick today (a 101 fever). I called in leave at work, and spent the day sleeping. Why do I sleep all the time and still feel tired? What is it that is pushing me down? I have to pull my shit together. This fever is the last time I'm resting- once I am back, I am not going to let any shit take over. Everything will be in my control. I'm angry and the world can't afford to hold an angry me. Goodnight. 
 
+#### 30 July 08:00 PM
+Still sick, I was barely able to finish half dosa for breakfast. It looks like my new roommate is a sweetie but I'm too scared to let anybody close. I love my laptop, but I am finding less and less motivation to fire it everyday. This sickness, this pain, this resting period is the last time. Once I'm back on my feet, I assure you things are going to be okay. I'm treating this week as my respawn period. Once everything goes back to normal, I'll have lots of amazing stories to tell. Goodnight, love. 
+
 [nodejs]: https://nodejs.org/
 [starter]: https://github.com/cotes2020/chirpy-starter
 [pages-workflow-src]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
