@@ -36,6 +36,17 @@ I am sick today (a 101 fever). I called in leave at work, and spent the day slee
 #### 30 July 08:00 PM
 Still sick, I was barely able to finish half dosa for breakfast. It looks like my new roommate is a sweetie but I'm too scared to let anybody close. I love my laptop, but I am finding less and less motivation to fire it everyday. This sickness, this pain, this resting period is the last time. Once I'm back on my feet, I assure you things are going to be okay. I'm treating this week as my respawn period. Once everything goes back to normal, I'll have lots of amazing stories to tell. Goodnight, love. 
 
+#### 31 July 10:00 PM
+Today was productive. I didn't wanna work, but kind of mustered the courage to open Outlook on my phone - 171 emails, and all marked important. If I took another day off, I know it would have gotten real bad. Anyhow, thanks to my agility and GenAI, I was able to wrap a lot of things real fast- and called my day off around 6, most things in my pipeline completed. I'm happy! I tried skipping but almost fainted- my palpitations- not sure if my cardio doctor is still alive. Last I know Dad fought with him and changed his doctor, but I really liked my cardio doctor. He felt like a kind grandfather. So, now that it feels like the sun is up again, here are my routine plans:
+
+- Walk on the terrace for 30 minutes every morning (I will create a super awesome playlist for it), followed by some home workouts and pilates. (including skipping even if I'm gonna faint)
+- Read ACIM few pages, introspect and soak it in - This is 15 minutes of conscious efforts to connect with God. (Every day must!)
+- Limit coffee to just two cups
+- Skipping every night
+- Filter my words before I talk - Do not talk unnessarily - and what I speak might push someone down, never try it at all!
+
+Let's see how it works out. Hoping the sun stays up all the time! :) 
+
 [nodejs]: https://nodejs.org/
 [starter]: https://github.com/cotes2020/chirpy-starter
 [pages-workflow-src]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
