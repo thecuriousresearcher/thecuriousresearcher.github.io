@@ -56,8 +56,8 @@ I made a really fiery playlist for myself on [spotify](https://open.spotify.com/
 
 God will then show himself up to me in form of a person, and I will treasure them with my entire heart, devoted. For God is love and love is god, isn't it?
 
->My favourite lines from Khwaja mere Khwaja:<br>
-Tu Hai Mutawwalli Khwaja, Rutba Hai Pyara<br>
+My favourite lines from Khwaja mere Khwaja:
+>Tu Hai Mutawwalli Khwaja, Rutba Hai Pyara<br>
 _You're our caretaker, your structure/presence is so beautiful_<br>
 Chahne Se Tujhko Khwaja Ji, Mustafa Ko Paya<br>
 _By longing for you, I've found a friend_.
