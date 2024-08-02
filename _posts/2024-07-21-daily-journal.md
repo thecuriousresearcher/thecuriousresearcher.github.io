@@ -47,6 +47,21 @@ Today was productive. I didn't wanna work, but kind of mustered the courage to o
 
 Let's see how it works out. Hoping the sun stays up all the time! :) 
 
+#### 2 August 2:00 PM
+It's August, and I don't feel anything. I can't wait to go home. I can't wait to see my mom get all excited for my birthday (and I believe this imbibed such excitement within me too). I'm so grateful to her, I'm glad she's my mom. Sometimes, when things get really tough, she is whom I want to reach out to. We've always had the no-secrets policy. She will throw a fit of course, but always tries to make things easy for me. I'm so glad to have her as my mother- the most prettiest, funniest, wittiest, street-smart and a charming lady. People say I look like her and our voices are apprently similar too. K once told me- birthdays aren't about us, it's about our mothers. :') Can't wait to go home, I'm hold my breath until then. 
+
+I took some major life decisions today. It's time to move on, and not look back. You can open your arms as wide as you can and take as many things on your plate, but if it gets heavy and you don't feel supported, it means you were always alone from the start- which gives me peace, cause I'm not losing anything at all. I've lost myself in the past and I'm going to bring myself back. I've lost my meaning to God, and I'm going to bring that back. He may not like it at all, but he has no choice but to be on my side. It was a done deal the day I was born. 
+
+I made a really fiery playlist for myself on [spotify](https://open.spotify.com/playlist/6MeuNu1CbKwReCoqQllOxA?si=04724d1035054c8d). Songs are not traumatic for me, I repeat, No. Spotify is an excellent app. It's fine! It really is. I used to love it once and I'm going to begin to love it again. I'm going to start loving myself again. I'm going to start being myself again. I'm this beautiful, kind and smart woman at core, and I'm not going to let anything else define me otherwise. I'm slowly going to enter doors I am scared to visit. I am ready to face it. 
+
+God will then show himself up to me in form of a person, and I will treasure them with my entire heart, devoted. For God is love and love is god, isn't it?
+
+>My favourite lines from Khwaja mere Khwaja: 
+>Tu Hai Mutawwalli Khwaja, Rutba Hai Pyara
+>_You're our caretaker, your structure/presence is so beautiful_
+>Chahne Se Tujhko Khwaja Ji, Mustafa Ko Paya 
+>_By longing for you, I've found a friend_.
+
 [nodejs]: https://nodejs.org/
 [starter]: https://github.com/cotes2020/chirpy-starter
 [pages-workflow-src]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
