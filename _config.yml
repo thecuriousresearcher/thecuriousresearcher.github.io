@@ -14,19 +14,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Strawberry # the main title
+title: Sowmya K # the main title
 
-tagline: Daily log # it will display as the sub-title
+tagline: What's new? # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
- Living, one day at a time. 
+ Happily researching! Check out my website for my two cents on world, life and all things.  
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://lifeofstrawberry.github.io"
+url: "https://thecuriousresearcher.github.io"
 
 github:
-  username: lifeofstrawberry # change to your github username
+  username: thecuriousresearcher # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -34,12 +34,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Strawberry
-  email: strawberryssocials@gmail.com # change to your email address
+  name: Sowmya K P
+  email: sowmyakp1998@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/lifeofstrawberry # change to your github homepage
+    - https://github.com/thecuriousreseacher # change to your github homepage
     - # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
